@@ -1,0 +1,14 @@
+# Twilio
+TWILIO_ACCOUNT_SID=AC7ac0e0746e3d327eb48790de853828e2
+TWILIO_AUTH_TOKEN=55d3908da748eadbdf549f72ce45a759
+TWILIO_FROM_NUMBER=+17077233607
+
+# Public URL of your tunnel Cloudflare
+PUBLIC_BASE_URL=https://mumbai-tomato-zoloft-workshops.trycloudflare.com
+
+# The clinic/test number you need to call
+TARGET_NUMBER=+14436307529
+
+# OpenAI
+OPENAI_API_KEY=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
+OPENAI_MODEL=gpt-4o-minigdgggdh
